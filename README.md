@@ -1,6 +1,7 @@
 # DdangFonts
 
 ## 최신 브라우저
+<pre>
 @font-face {
     font-family: 'TangsBudaeJjigae';
     font-weight: 300;
@@ -22,8 +23,10 @@
     src: url('https://cdn.jsdelivr.net/gh/webfontworld/DdangFonts/TangsBudaeJjigae_Bold.woff2') format('woff2');
     font-display: swap;
 }
+</pre>
 
 ## 모든 브라우저 호환
+<pre>
 @font-face {
     font-family: 'TangsBudaeJjigae';
     font-weight: 300;
@@ -57,3 +60,4 @@
         url('https://cdn.jsdelivr.net/gh/webfontworld/DdangFonts/TangsBudaeJjigae_Bold.ttf') format("truetype");
     font-display: swap;
 }
+</pre>
